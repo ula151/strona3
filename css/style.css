@@ -32,4 +32,21 @@ ul {
         border: 2px solid yellow;
   
     }
+
+    .xbox {
+        width: 100px;
+        height: 100px;
     
+    }
+    #box5 {
+        border: 2px solid orange;
+  
+    }
+    #box6 {
+        border: 2px solid violet;
+  
+    }
+    #box7 {
+        border: 2px solid navy;
+  
+    }
